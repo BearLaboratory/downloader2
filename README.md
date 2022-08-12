@@ -1,5 +1,8 @@
 # downloader2
 
+> [中文文档请点击这里](https://github.com/BearLaboratory/downloader2/blob/main/docs/README-zh.md)
+
+
 ## what is downloader2 ?
 downloader2 is the next version of downloader , it replace first version of chip ch340k to ch343p. the reason of this,is ch340k are out of for sell and the remaining of chips are more expensive then I choese it, so I deside to chose annother chip to repalce it,and the ch343p hava much more performance then ch343k, so why not?
 

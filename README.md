@@ -11,8 +11,13 @@ if we need to download firmware or debug the board we design,we just need to mou
 ## how to get it?
 if you are in china mainland,you can buy it in taobao.com, but if you are not a chinese,you need to memufacture  by yourself and solid  by yourself.because I can't sell it overseas.
 
+## how to use it?
+
+if you want to use this tool for you project, the first thing you need to set 6 pin connecter in you pcb design,the order is +5v/GND/tx/rx/io0/en , and then you need to buy a 6 pin 
+
+
 ## how to support me?
-if this project can help you, you can support me in such mehods list:
+if this project can help you, you can support me in such mehods :
 
 buy the module what I build it
 follow me in youtube or bilibli(china mainland)
